@@ -1,0 +1,21 @@
+h1{
+font-family: cursive;
+font-size: 100px;
+color:white;
+text-align: center;
+font-style: oblique;
+font-weight: lighter;
+}
+body{
+  background-color: purple;
+}
+img{
+  width:rgb(255, 0, 0);
+  height:180px;
+  display:inline-block;
+  margin-right: auto;
+  margin-left: inherit;
+}
+
+
+}
